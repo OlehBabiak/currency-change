@@ -1,0 +1,7 @@
+.home {
+    display: grid;
+    height: fit-content;
+    grid-template-columns: repeat(auto-fit, minmax(20rem, auto));
+    justify-content: space-around;
+    gap: 30px;
+}
